@@ -43,4 +43,4 @@ while True:
 with open("new.txt", "w") as file:
     file.write("".join(data_buffer))
 
-print("\n\nFile saved as new.txt ✅")
+print("\n\nFile saved as new.txt")
